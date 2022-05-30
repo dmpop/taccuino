@@ -1,0 +1,37 @@
+site_name: Taccuino
+site_description: Brief notes on Italian grammar and usage
+site_url: https://dmpop.github.io/taccuino/
+site_author: Dmitri Popov
+repo_url: https://github.com/dmpop/taccuino/
+edit_uri: blob/main/docs/
+copyright: Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+theme:
+  name: material
+  logo: logo.png
+  favicon: logo.png
+  palette:
+    - scheme: default
+      primary: green
+      accent: teal
+      toggle:
+        icon: material/lightbulb-outline 
+        name: Switch to dark mode
+    - scheme: slate
+      primary: green
+      accent: teal
+      toggle:
+        icon: material/lightbulb
+        name: Switch to light mode
+  font:
+    text: Lato
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.keys
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+plugins:
+  - search
