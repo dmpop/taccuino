@@ -1,6 +1,6 @@
 # About
 
-These are my personal notes on Italian grammar and usage. I'm learning Italian, and I document grammar and usage points I find interesting or particularly tricky, so I can always consult my notes to refresh my memory.
+Brief notes on Italian grammar and usage, to refresh your memory when needed.
 
 ## The author
 
