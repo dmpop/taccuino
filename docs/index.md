@@ -1,7 +1,5 @@
-# About
+# Taccuino
 
-Brief notes on Italian grammar and usage, to refresh your memory when needed.
+Appunti sulla grammatica italiana a portata di mano.
 
-## The author
-
-I write [books](https://dmpop.gumroad.com), and I really like [coffee]('https://www.paypal.com/paypalme/dmpop).
+Ho scritto [libri](https://dmpop.gumroad.com) e mi piace [caffè]('https://www.paypal.com/paypalme/dmpop).

@@ -1,6 +1,6 @@
-# La frase negativa
+# Le frase negative
 
-| LA FRASE NEGATIVA |         |          |             |                 |
+| LE FRASE NEGATIVE |         |          |             |                 |
 | ----------------- | ------- | -------- | ----------- | --------------- |
 | io                | **non** | sono     | **mai**     | in ritardo      |
 | tu                | **non** | fai      | **neppure** | la spesa        |
