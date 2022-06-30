@@ -21,11 +21,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://dmpop.github.io/taccuino/frase-negativa/</loc>
-         <lastmod>2022-06-30</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://dmpop.github.io/taccuino/futuro-semplice/</loc>
          <lastmod>2022-06-30</lastmod>
          <changefreq>daily</changefreq>
@@ -37,6 +32,11 @@
     </url>
     <url>
          <loc>https://dmpop.github.io/taccuino/indicativo-presente/</loc>
+         <lastmod>2022-06-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmpop.github.io/taccuino/le-frase-negative/</loc>
          <lastmod>2022-06-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
