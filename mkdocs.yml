@@ -5,16 +5,27 @@ site_author: Dmitri Popov
 repo_url: https://github.com/dmpop/taccuino/
 edit_uri: blob/main/docs/
 copyright: Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+plugins:
+  - search:
+      lang:
+        - en
+        - it
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: date
+
 theme:
   name: material
   logo: logo.png
   favicon: logo.png
+  features:
+    - header.autohide
   palette:
     - scheme: default
       primary: green
       accent: teal
       toggle:
-        icon: material/lightbulb-outline 
+        icon: material/lightbulb-outline
         name: Switch to dark mode
     - scheme: slate
       primary: green
@@ -33,5 +44,7 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-plugins:
-  - search
+extra:
+  consent:
+    title: Yay, cookies!
+    description: This site uses cookies. No, you can't eat them.
