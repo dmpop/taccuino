@@ -11,9 +11,8 @@ plugins:
         - en
         - it
   - git-revision-date-localized:
-      enable_creation_date: true
       type: date
-
+  - awesome-pages
 theme:
   name: material
   logo: logo.png
