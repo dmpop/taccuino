@@ -1,4 +1,4 @@
-**# Preposizioni semplici
+# Preposizioni semplici
 
 | DI                      |
 | ----------------------- |
