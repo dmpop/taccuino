@@ -11,4 +11,4 @@
 | vedere                               | visto    |
 | succedere                            | successo |
 | prendere                             | preso    |
-| dire                                 | ditto    |
+| dire                                 | detto    |
