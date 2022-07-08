@@ -2,72 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://dmpop.github.io/taccuino/</loc>
-         <lastmod>2022-07-07</lastmod>
+         <lastmod>2022-07-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmpop.github.io/taccuino/articolo-determinativo/</loc>
-         <lastmod>2022-07-07</lastmod>
+         <lastmod>2022-07-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmpop.github.io/taccuino/articolo-indeterminativo/</loc>
-         <lastmod>2022-07-07</lastmod>
+         <lastmod>2022-07-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmpop.github.io/taccuino/condizionale-presente/</loc>
-         <lastmod>2022-07-07</lastmod>
+         <lastmod>2022-07-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://dmpop.github.io/taccuino/congiuntivo-presente-imperfetto/</loc>
+         <lastmod>2022-07-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmpop.github.io/taccuino/futuro-semplice/</loc>
-         <lastmod>2022-07-07</lastmod>
+         <lastmod>2022-07-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmpop.github.io/taccuino/imperativo/</loc>
-         <lastmod>2022-07-07</lastmod>
+         <lastmod>2022-07-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmpop.github.io/taccuino/indicativo-imperfetto/</loc>
-         <lastmod>2022-07-07</lastmod>
+         <lastmod>2022-07-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmpop.github.io/taccuino/indicativo-presente-verbi-servili/</loc>
-         <lastmod>2022-07-07</lastmod>
+         <lastmod>2022-07-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmpop.github.io/taccuino/indicativo-presente/</loc>
-         <lastmod>2022-07-07</lastmod>
+         <lastmod>2022-07-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmpop.github.io/taccuino/le-frase-negative/</loc>
-         <lastmod>2022-07-07</lastmod>
+         <lastmod>2022-07-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmpop.github.io/taccuino/part-passato-verbi-irr/</loc>
-         <lastmod>2022-07-07</lastmod>
+         <lastmod>2022-07-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmpop.github.io/taccuino/possessivi/</loc>
-         <lastmod>2022-07-07</lastmod>
+         <lastmod>2022-07-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmpop.github.io/taccuino/preposizioni-semplici/</loc>
-         <lastmod>2022-07-07</lastmod>
+         <lastmod>2022-07-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://dmpop.github.io/taccuino/pronomi-diretti/</loc>
-         <lastmod>2022-07-07</lastmod>
+         <lastmod>2022-07-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
