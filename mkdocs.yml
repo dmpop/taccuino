@@ -33,7 +33,7 @@ theme:
         icon: material/lightbulb
         name: Switch to light mode
   font:
-    text: Lato
+    text: Karla
 markdown_extensions:
   - pymdownx.highlight:
       linenums: true
